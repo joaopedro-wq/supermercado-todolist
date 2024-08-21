@@ -1,0 +1,28 @@
+<div class="container">
+    <h2>Lista de Supermercado</h2>
+    <form (submit)="adicionarItem(); $event.preventDefault()">
+        <p-dropdown [options]="itensFiltrados" [(ngModel)]="selectedItem" optionLabel="nome"
+            placeholder="Selecione um item" (onChange)="atualizarItemSelecionado($event)" filter="true"
+            name="itemDropdown">
+        </p-dropdown>
+
+        <p-inputText type="number" [(ngModel)]="novoItemQuantidade" name="quantidade" placeholder="Quantidade" min="1"
+            required>
+        </p-inputText>
+
+        <p-button type="submit" label="Adicionar" icon="pi pi-plus" class="p-button-primary">
+        </p-button>
+    </form>
+
+    <h3>Itens da Lista</h3>
+    <ul class="item-list">
+        <li *ngFor="let item of itens; let i = index">
+            <p-checkbox [(ngModel)]="item.comprado" (onChange)="marcarComprado(i)" binary="true"
+                name="itemComprado{{i}}">
+            </p-checkbox>
+            <span [ngClass]="{'comprado': item.comprado}">{{ item.nome }} ({{ item.quantidade }})</span>
+            <p-button label="Remover" icon="pi pi-trash" class="p-button-danger" (click)="removerItem(i)">
+            </p-button>
+        </li>
+    </ul>
+</div>

@@ -1,1 +1,51 @@
-/* You can add global styles to this file, and also import other style files */
+@import "primeng/resources/themes/lara-light-blue/theme.css";
+@import "primeng/resources/primeng.css";
+
+body.dark-theme {
+    --background-color: #121212;
+    --text-color: #e0e0e0;
+    --header-footer-background: #333333;
+    --header-footer-text-color: #ffffff;
+    --button-background-color: #bb86fc;
+    --button-text-color: #000000;
+    --input-background-color: #1e1e1e;
+    --input-border-color: #444444;
+}
+
+body {
+    background-color: var(--background-color);
+    color: var(--text-color);
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.layout {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.header,
+.footer {
+    background-color: var(--header-footer-background);
+    color: var(--header-footer-text-color);
+    text-align: center;
+    padding: 1rem;
+}
+
+.main-content {
+    flex-grow: 1;
+    padding: 2rem;
+}
+
+
+html,
+body {
+    height: 100%;
+}
+
+body {
+    margin: 0;
+    font-family: Roboto, "Helvetica Neue", sans-serif;
+}

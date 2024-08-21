@@ -1,0 +1,282 @@
+[
+  { "id": 1, "categoria": "Grãos", "nome": "Arroz", "quantidade": "1 kg" },
+  { "id": 2, "categoria": "Grãos", "nome": "Feijão", "quantidade": "500 g" },
+  { "id": 3, "categoria": "Laticínios", "nome": "Leite", "quantidade": "1 L" },
+  {
+    "id": 4,
+    "categoria": "Padaria",
+    "nome": "Pão",
+    "quantidade": "10 unidades"
+  },
+  {
+    "id": 5,
+    "categoria": "Açúcares e Doces",
+    "nome": "Açúcar",
+    "quantidade": "1 kg"
+  },
+  { "id": 6, "categoria": "Carnes", "nome": "Frango", "quantidade": "1 kg" },
+  {
+    "id": 7,
+    "categoria": "Carnes",
+    "nome": "Carne Bovina",
+    "quantidade": "1 kg"
+  },
+  { "id": 8, "categoria": "Higiene", "nome": "Sabonete", "quantidade": "90 g" },
+  {
+    "id": 9,
+    "categoria": "Limpeza",
+    "nome": "Detergente",
+    "quantidade": "500 ml"
+  },
+  {
+    "id": 10,
+    "categoria": "Bebidas",
+    "nome": "Suco de Laranja",
+    "quantidade": "1 L"
+  },
+  {
+    "id": 11,
+    "categoria": "Congelados",
+    "nome": "Pizza Congelada",
+    "quantidade": "1 unidade"
+  },
+  {
+    "id": 12,
+    "categoria": "Enlatados",
+    "nome": "Milho",
+    "quantidade": "300 g"
+  },
+  { "id": 13, "categoria": "Temperos", "nome": "Sal", "quantidade": "1 kg" },
+  {
+    "id": 14,
+    "categoria": "Temperos",
+    "nome": "Pimenta",
+    "quantidade": "50 g"
+  },
+  { "id": 15, "categoria": "Cereais", "nome": "Aveia", "quantidade": "500 g" },
+  {
+    "id": 16,
+    "categoria": "Laticínios",
+    "nome": "Queijo",
+    "quantidade": "200 g"
+  },
+  {
+    "id": 17,
+    "categoria": "Bebidas",
+    "nome": "Cerveja",
+    "quantidade": "350 ml"
+  },
+  {
+    "id": 18,
+    "categoria": "Cereais",
+    "nome": "Granola",
+    "quantidade": "300 g"
+  },
+  {
+    "id": 19,
+    "categoria": "Padaria",
+    "nome": "Croissant",
+    "quantidade": "5 unidades"
+  },
+  {
+    "id": 20,
+    "categoria": "Enlatados",
+    "nome": "Sardinha",
+    "quantidade": "200 g"
+  },
+  { "id": 21, "categoria": "Frutas", "nome": "Maçã", "quantidade": "1 kg" },
+  {
+    "id": 22,
+    "categoria": "Frutas",
+    "nome": "Banana",
+    "quantidade": "6 unidades"
+  },
+  {
+    "id": 23,
+    "categoria": "Vegetais",
+    "nome": "Cenoura",
+    "quantidade": "1 kg"
+  },
+  { "id": 24, "categoria": "Vegetais", "nome": "Batata", "quantidade": "1 kg" },
+  {
+    "id": 25,
+    "categoria": "Congelados",
+    "nome": "Hambúrguer Congelado",
+    "quantidade": "4 unidades"
+  },
+  {
+    "id": 26,
+    "categoria": "Condimentos",
+    "nome": "Óleo de Cozinha",
+    "quantidade": "900 ml"
+  },
+  {
+    "id": 27,
+    "categoria": "Condimentos",
+    "nome": "Maionese",
+    "quantidade": "500 g"
+  },
+  {
+    "id": 28,
+    "categoria": "Higiene",
+    "nome": "Shampoo",
+    "quantidade": "400 ml"
+  },
+  {
+    "id": 29,
+    "categoria": "Higiene",
+    "nome": "Creme Dental",
+    "quantidade": "90 g"
+  },
+  {
+    "id": 30,
+    "categoria": "Bebidas",
+    "nome": "Água Mineral",
+    "quantidade": "1,5 L"
+  },
+  {
+    "id": 31,
+    "categoria": "Enlatados",
+    "nome": "Tomate Pelado",
+    "quantidade": "400 g"
+  },
+  { "id": 32, "categoria": "Grãos", "nome": "Lentilha", "quantidade": "500 g" },
+  {
+    "id": 33,
+    "categoria": "Laticínios",
+    "nome": "Yogurte",
+    "quantidade": "170 g"
+  },
+  {
+    "id": 34,
+    "categoria": "Carnes",
+    "nome": "Linguiça",
+    "quantidade": "500 g"
+  },
+  {
+    "id": 35,
+    "categoria": "Condimentos",
+    "nome": "Vinagre",
+    "quantidade": "500 ml"
+  },
+  { "id": 36, "categoria": "Enlatados", "nome": "Atum", "quantidade": "180 g" },
+  {
+    "id": 37,
+    "categoria": "Padaria",
+    "nome": "Biscoito",
+    "quantidade": "300 g"
+  },
+  { "id": 38, "categoria": "Cereais", "nome": "Muesli", "quantidade": "500 g" },
+  {
+    "id": 39,
+    "categoria": "Bebidas",
+    "nome": "Refrigerante",
+    "quantidade": "2 L"
+  },
+  {
+    "id": 40,
+    "categoria": "Limpeza",
+    "nome": "Amaciante",
+    "quantidade": "1 L"
+  },
+  { "id": 41, "categoria": "Frutas", "nome": "Laranja", "quantidade": "1 kg" },
+  {
+    "id": 42,
+    "categoria": "Vegetais",
+    "nome": "Brócolis",
+    "quantidade": "500 g"
+  },
+  { "id": 43, "categoria": "Grãos", "nome": "Quinoa", "quantidade": "300 g" },
+  {
+    "id": 44,
+    "categoria": "Carnes",
+    "nome": "Carne de Porco",
+    "quantidade": "500 g"
+  },
+  {
+    "id": 45,
+    "categoria": "Laticínios",
+    "nome": "Creme de Leite",
+    "quantidade": "200 ml"
+  },
+  { "id": 46, "categoria": "Bebidas", "nome": "Vinho", "quantidade": "750 ml" },
+  {
+    "id": 47,
+    "categoria": "Congelados",
+    "nome": "Frutas Congeladas",
+    "quantidade": "1 kg"
+  },
+  {
+    "id": 48,
+    "categoria": "Padaria",
+    "nome": "Baguete",
+    "quantidade": "2 unidades"
+  },
+  {
+    "id": 49,
+    "categoria": "Higiene",
+    "nome": "Desodorante",
+    "quantidade": "100 ml"
+  },
+  {
+    "id": 50,
+    "categoria": "Limpeza",
+    "nome": "Esponja de Limpeza",
+    "quantidade": "5 unidades"
+  },
+  {
+    "id": 51,
+    "categoria": "Cereais",
+    "nome": "Flocos de Milho",
+    "quantidade": "500 g"
+  },
+  { "id": 52, "categoria": "Grãos", "nome": "Cevada", "quantidade": "400 g" },
+  {
+    "id": 53,
+    "categoria": "Condimentos",
+    "nome": "Molho de Soja",
+    "quantidade": "300 ml"
+  },
+  {
+    "id": 54,
+    "categoria": "Enlatados",
+    "nome": "Ervilha",
+    "quantidade": "300 g"
+  },
+  {
+    "id": 55,
+    "categoria": "Vegetais",
+    "nome": "Pepino",
+    "quantidade": "500 g"
+  },
+  {
+    "id": 56,
+    "categoria": "Frutas",
+    "nome": "Manga",
+    "quantidade": "1 unidade"
+  },
+  {
+    "id": 57,
+    "categoria": "Bebidas",
+    "nome": "Chá",
+    "quantidade": "20 sachês"
+  },
+  {
+    "id": 58,
+    "categoria": "Padaria",
+    "nome": "Pão de Forma",
+    "quantidade": "1 pacote"
+  },
+  {
+    "id": 59,
+    "categoria": "Carnes",
+    "nome": "Peito de Frango",
+    "quantidade": "1 kg"
+  },
+  {
+    "id": 60,
+    "categoria": "Laticínios",
+    "nome": "Ricota",
+    "quantidade": "200 g"
+  }
+]
